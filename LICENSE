@@ -1,0 +1,31 @@
+ChromeMusic is copyright 2010 Alexander Forselius 
+
+PERMISSION GRANT TO COPY, REDISTRIBUTE AND/OR MODIFY THE ACCOMPANJON BINARIES OR SOURCE CODE IS GRANTED
+ONLY FOR PRIVATE-USE. THE SOFTWARE SOURCE CODE MAY NOT BE SOLD OR INCLUDED WHOLE OR IN ANY PART IN
+ANY SOFTWARE THAT MAKES PROFIT WITHOUT PERMISSION FROM THE AUTHOR.
+
+
+NO LIABILITY---
+
+ THE SOFTWARE IS PROVIDED "AS-IS" AND THE AUTHOR CANNOT BE HOLD LIABLE FOR ANY DAMAGES THE SOFTWARE IS OCCURING
+EXCEPT FOR THE LAW.
+	THE NORMAL USE OF THE SOFTWAR IS FREE. 
+	
+THE SOFTWARE PACKAGES OR FOLDER INCLUDES MOBILE BINARIES OF COPYRIGHTED AND PATENT COVRED SOFTWARE CODE IN BINARY
+FORM. THESE LIBRARIES MAY NOT BE USED SEPARATELY OR IN ANY OTHER PURPOSE THAN FOR THIS SOFTWARE FUNCTIONALITY. THIS
+MEANS THAT RETRIEVING THIS SOFTWARE IS NOT A GRANT PERMISSION TO USE, MODEFY OR COPY THE FILES IN ANY OTHER WAY THAN
+FOR THIS SOFTWARE FUNCTIONALITY.
+
+
+SPOTIFY(TM) libraries
+The software directory contains a propierty binary from Spotify(TM) which allows the application with creditals from
+premium users to access and stream the library through this software. A application key has been stored in CLI code
+for allowing this to work. This code may not be revaled through decompiling. The code and the library is owned by
+SPOTIFY(TM). 
+	For inquires about the packages, refer to http://developer.spotify.com.
+
+Beta Version
+This software is not complete in it's development. It means that the possible of failure, crashes and unexpected behaviour
+is big like all other 'beta' software. This means that we do not encourage use of this software on production stadge.
+
+Trademarks

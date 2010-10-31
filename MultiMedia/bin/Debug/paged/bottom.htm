@@ -1,0 +1,34 @@
+ <html>
+	<head>
+		<link rel="stylesheet" href="style.css" type="text/css"/>
+		<style>
+		body{
+				background-image: url("img/top.png");
+				background-color: #85BAFA;
+			}
+			</style>
+		<script language="javascript">
+			function init(){
+				var divs = document.getElementsByTagName("div");
+				for(var i=0; i < divs.length; i++){
+					var id = divs[i].getAttribute("id");
+
+					
+			
+				}
+			}
+			
+			function act(id){
+				var c = document.getElementsByTagName("div");
+				for(var i=0; i < c.length; i++){
+					c[i].setAttribute("class","section");
+				}
+				document.getElementById(id).setAttribute("class","secActive");
+				self.location="http://go.go/"+id;
+			}
+		</script>
+		<body onload="init()">
+			
+		</body>
+	</head>
+</html>

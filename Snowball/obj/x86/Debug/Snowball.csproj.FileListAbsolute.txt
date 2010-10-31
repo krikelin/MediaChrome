@@ -1,0 +1,12 @@
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\Snowball.XPanel.resources
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\Snowball.colorChooser.resources
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\Snowball.frmConfirm.resources
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\snowball.iniEditor.resources
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\Snowball.interbook.resources
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\snowball.XTSC.resources
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\Snowball.csproj.GenerateResource.Cache
+E:\SharpDevelop Projects\MultiMedia\Snowball\bin\Debug\Snowball.dll
+E:\SharpDevelop Projects\MultiMedia\Snowball\bin\Debug\Snowball.pdb
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\Snowball.dll
+E:\SharpDevelop Projects\MultiMedia\Snowball\obj\x86\Debug\Snowball.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="colorx.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="BackSel" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">1, 1, 4</Value>
+    </Setting>
+    <Setting Name="LocalAFade" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ForeC" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackAFade" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="ForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 127, 255</Value>
+    </Setting>
+    <Setting Name="BackFade" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="FirstColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 36, 142</Value>
+    </Setting>
+    <Setting Name="fadeA" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">244</Value>
+    </Setting>
+    <Setting Name="fadeB" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="wmp10" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

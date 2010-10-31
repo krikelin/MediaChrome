@@ -1,0 +1,36 @@
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\bin\Release\snowball.dll
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\bin\Release\snowball.pdb
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Release\snowball.colorChooser.resources
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Release\snowball.Properties.Resources.resources
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Release\snowball.csproj.GenerateResource.Cache
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Release\snowball.dll
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Release\snowball.pdb
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Release\snowball.interbook.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\bin\Release\Snowball.dll
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\bin\Release\Snowball.pdb
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.colorChooser.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.interbook.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.Properties.Resources.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Release\snowball.csproj.GenerateResource.Cache
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.dll
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\bin\Release\Snowball.dll
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\bin\Release\Snowball.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Release\ResolveAssemblyReference.cache
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.colorChooser.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.interbook.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.Properties.Resources.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Release\snowball.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.dll
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Release\Snowball.pdb
+C:\Users\alex\colorx\colorx\colorx\snowbally\bin\Release\Snowball.dll
+C:\Users\alex\colorx\colorx\colorx\snowbally\bin\Release\Snowball.pdb
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Release\ResolveAssemblyReference.cache
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Release\Snowball.colorChooser.resources
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Release\Snowball.interbook.resources
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Release\Snowball.Properties.Resources.resources
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Release\snowball.csproj.GenerateResource.Cache
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Release\Snowball.dll
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Release\Snowball.pdb

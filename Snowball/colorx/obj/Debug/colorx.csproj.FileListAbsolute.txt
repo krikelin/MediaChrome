@@ -1,0 +1,76 @@
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\bin\Debug\colorx.exe
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\bin\Debug\colorx.pdb
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\obj\Debug\colorx.Form1.resources
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\obj\Debug\colorx.Properties.Resources.resources
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\obj\Debug\colorx.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\obj\Debug\colorx.exe
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\obj\Debug\colorx.pdb
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\bin\Debug\snowball.dll
+C:\Users\alex\Documents\Visual Studio 2008\Projects\colorx\colorx\bin\Debug\snowball.pdb
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.exe
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.pdb
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.Form1.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.Properties.Resources.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.csproj.GenerateResource.Cache
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\bin\Debug\colorx.exe
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\bin\Debug\colorx.pdb
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\bin\Debug\Snowball.dll
+C:\Users\Bertil\Documents\colorx\colorx\colorx\colorx\bin\Debug\Snowball.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.exe
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\bin\Debug\colorx.exe
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\bin\Debug\colorx.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\bin\Debug\Snowball.dll
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\bin\Debug\Snowball.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.Form1.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.Properties.Resources.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\colorx\obj\Debug\colorx.csproj.GenerateResource.Cache
+F:\colorx\colorx\colorx\colorx\obj\Debug\colorx.exe
+F:\colorx\colorx\colorx\colorx\obj\Debug\colorx.pdb
+F:\colorx\colorx\colorx\colorx\bin\Debug\colorx.exe
+F:\colorx\colorx\colorx\colorx\bin\Debug\colorx.pdb
+F:\colorx\colorx\colorx\colorx\bin\Debug\Snowball.dll
+F:\colorx\colorx\colorx\colorx\bin\Debug\Snowball.pdb
+F:\colorx\colorx\colorx\colorx\obj\Debug\ResolveAssemblyReference.cache
+F:\colorx\colorx\colorx\colorx\obj\Debug\colorx.Form1.resources
+F:\colorx\colorx\colorx\colorx\obj\Debug\colorx.Properties.Resources.resources
+F:\colorx\colorx\colorx\colorx\obj\Debug\colorx.csproj.GenerateResource.Cache
+F:\colorx\colorx\colorx\colorx\bin\Debug\colorx.exe.config
+F:\colorx\colorx\colorx\colorx\bin\Debug\Interop.WMPLib.dll
+F:\colorx\colorx\colorx\colorx\bin\Debug\AxInterop.WMPLib.dll
+F:\colorx\colorx\colorx\colorx\obj\Debug\Interop.WMPLib.dll
+F:\colorx\colorx\colorx\colorx\obj\Debug\AxInterop.WMPLib.dll
+F:\colorx\colorx\colorx\colorx\obj\Debug\colorx.csproj.ResolveComReference.cache
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\colorx.exe.config
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\Interop.WMPLib.dll
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\colorx.csproj.ResolveComReference.cache
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\colorx.exe
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\colorx.pdb
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\colorx.exe
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\colorx.pdb
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\Snowball.dll
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\Snowball.pdb
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\Interop.WMPLib.dll
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\colorx.Form1.resources
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\colorx.Properties.Resources.resources
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\colorx.csproj.GenerateResource.Cache
+C:\Users\alex\colorx\colorx\colorx\colorx\bin\Debug\taglib-sharp.dll
+C:\Users\alex\colorx\colorx\colorx\colorx\obj\Debug\colorx.frmColorChooser.resources
+F:\WMP 2013\colorx\bin\Debug\colorx.exe.config
+F:\WMP 2013\colorx\obj\Debug\Interop.WMPLib.dll
+F:\WMP 2013\colorx\obj\Debug\AxInterop.WMPLib.dll
+F:\WMP 2013\colorx\obj\Debug\colorx.csproj.ResolveComReference.cache
+F:\WMP 2013\colorx\obj\Debug\colorx.exe
+F:\WMP 2013\colorx\obj\Debug\colorx.pdb
+E:\Dex\WMP 2013\colorx\bin\Debug\colorx.exe.config
+E:\Dex\WMP 2013\colorx\obj\Debug\Interop.WMPLib.dll
+E:\Dex\WMP 2013\colorx\obj\Debug\AxInterop.WMPLib.dll
+E:\Dex\WMP 2013\colorx\obj\Debug\colorx.csproj.ResolveComReference.cache
+E:\Dex\WMP 2013\colorx\obj\Debug\colorx.exe
+E:\Dex\WMP 2013\colorx\obj\Debug\colorx.pdb

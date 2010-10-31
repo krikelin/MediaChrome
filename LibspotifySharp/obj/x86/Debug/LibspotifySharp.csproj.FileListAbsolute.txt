@@ -1,0 +1,5 @@
+E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\bin\Debug\LibspotifySharp.dll
+E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\obj\x86\Debug\LibspotifySharp.dll
+E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\bin\Debug\Bass.Net.dll
+E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\bin\Debug\NAudio.dll

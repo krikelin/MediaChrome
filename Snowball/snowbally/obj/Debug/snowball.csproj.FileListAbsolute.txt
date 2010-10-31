@@ -1,0 +1,63 @@
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Debug\snowball.colorChooser.resources
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Debug\snowball.csproj.GenerateResource.Cache
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\bin\Debug\snowball.dll
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\bin\Debug\snowball.pdb
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Debug\snowball.dll
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Debug\snowball.pdb
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Debug\snowball.Properties.Resources.resources
+C:\Users\Bertil\Documents\Visual Studio 2008\Projects\voyager\snowball\obj\Debug\snowball.interbook.resources
+C:\Users\alex\Documents\snowball\bin\Debug\snowball.dll
+C:\Users\alex\Documents\snowball\bin\Debug\snowball.pdb
+C:\Users\alex\Documents\snowball\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex\Documents\snowball\obj\Debug\snowball.colorChooser.resources
+C:\Users\alex\Documents\snowball\obj\Debug\snowball.interbook.resources
+C:\Users\alex\Documents\snowball\obj\Debug\snowball.Properties.Resources.resources
+C:\Users\alex\Documents\snowball\obj\Debug\snowball.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\snowball\obj\Debug\snowball.dll
+C:\Users\alex\Documents\snowball\obj\Debug\snowball.pdb
+C:\Users\alex\Documents\snowbally\bin\Debug\snowball.dll
+C:\Users\alex\Documents\snowbally\bin\Debug\snowball.pdb
+C:\Users\alex\Documents\snowbally\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex\Documents\snowbally\obj\Debug\Snowball.colorChooser.resources
+C:\Users\alex\Documents\snowbally\obj\Debug\Snowball.interbook.resources
+C:\Users\alex\Documents\snowbally\obj\Debug\snowball.Properties.Resources.resources
+C:\Users\alex\Documents\snowbally\obj\Debug\snowball.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\snowbally\obj\Debug\snowball.dll
+C:\Users\alex\Documents\snowbally\obj\Debug\snowball.pdb
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.dll
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.pdb
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.colorChooser.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.interbook.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.Properties.Resources.resources
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Debug\snowball.csproj.GenerateResource.Cache
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.dll
+C:\Users\Bertil\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.colorChooser.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.interbook.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.Properties.Resources.resources
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Debug\snowball.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.dll
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.dll
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.pdb
+C:\Users\alex\Documents\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.pdb
+F:\colorx\colorx\colorx\snowbally\obj\Debug\ResolveAssemblyReference.cache
+F:\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.colorChooser.resources
+F:\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.interbook.resources
+F:\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.Properties.Resources.resources
+F:\colorx\colorx\colorx\snowbally\obj\Debug\snowball.csproj.GenerateResource.Cache
+F:\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.dll
+F:\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.pdb
+F:\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.dll
+F:\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.pdb
+C:\Users\alex\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.dll
+C:\Users\alex\colorx\colorx\colorx\snowbally\bin\Debug\Snowball.pdb
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.colorChooser.resources
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.interbook.resources
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.Properties.Resources.resources
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Debug\snowball.csproj.GenerateResource.Cache
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.dll
+C:\Users\alex\colorx\colorx\colorx\snowbally\obj\Debug\Snowball.pdb
