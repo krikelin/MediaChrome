@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<view>
+  <section name="Home">
+    <element type="sp:group" >
+      <attribute name="width" value="640"/>
+      <attribute name="height" value="640"/>
+      <attribute name="x" value="2"/>
+      <attribute name="y" value="2"/>
+    </element>
+  </section>
+</view>

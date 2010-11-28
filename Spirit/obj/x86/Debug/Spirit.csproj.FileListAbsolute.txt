@@ -1,0 +1,10 @@
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\Spirit.Form1.resources
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\Spirit.Properties.Resources.resources
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\Spirit.csproj.GenerateResource.Cache
+L:\Mediachrome 201012191250\MultiMedia\Spirit\bin\Debug\Spirit.exe
+L:\Mediachrome 201012191250\MultiMedia\Spirit\bin\Debug\Spirit.pdb
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\Spirit.CListView.resources
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\Spirit.exe
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\Spirit.pdb
+L:\Mediachrome 201012191250\MultiMedia\Spirit\obj\x86\Debug\Spirit.Board.resources

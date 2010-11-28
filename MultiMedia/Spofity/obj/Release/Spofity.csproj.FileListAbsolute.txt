@@ -1,0 +1,17 @@
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Release\Spofity.exe
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Release\Spofity.pdb
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Release\VistaControls.xml
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.Form1.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.exe
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.pdb
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.pane.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.spotifyPanel.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Interop.WMPLib.dll
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\AxInterop.WMPLib.dll
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.csproj.ResolveComReference.cache
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.CDNotice.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.spotiEntry.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Release\Spofity.spotifyButton.resources

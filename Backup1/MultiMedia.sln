@@ -1,0 +1,31 @@
+﻿Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMedia", "MultiMedia\MultiMedia.csproj", "{41A248CD-918B-45B3-9717-42B4399669E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibspotifySharp", "LibspotifySharp\LibspotifySharp.csproj", "{6D002BB0-40AA-4F41-9F45-FB1644DC1DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowball", "Snowball\Snowball.csproj", "{895D5C64-BBFF-4C14-BA26-3BE815DEE01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A248CD-918B-45B3-9717-42B4399669E2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{41A248CD-918B-45B3-9717-42B4399669E2}.Debug|Any CPU.Build.0 = Debug|x86
+		{41A248CD-918B-45B3-9717-42B4399669E2}.Release|Any CPU.ActiveCfg = Release|x86
+		{41A248CD-918B-45B3-9717-42B4399669E2}.Release|Any CPU.Build.0 = Release|x86
+		{6D002BB0-40AA-4F41-9F45-FB1644DC1DB8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6D002BB0-40AA-4F41-9F45-FB1644DC1DB8}.Debug|Any CPU.Build.0 = Debug|x86
+		{6D002BB0-40AA-4F41-9F45-FB1644DC1DB8}.Release|Any CPU.ActiveCfg = Release|x86
+		{6D002BB0-40AA-4F41-9F45-FB1644DC1DB8}.Release|Any CPU.Build.0 = Release|x86
+		{895D5C64-BBFF-4C14-BA26-3BE815DEE01D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{895D5C64-BBFF-4C14-BA26-3BE815DEE01D}.Debug|Any CPU.Build.0 = Debug|x86
+		{895D5C64-BBFF-4C14-BA26-3BE815DEE01D}.Release|Any CPU.ActiveCfg = Release|x86
+		{895D5C64-BBFF-4C14-BA26-3BE815DEE01D}.Release|Any CPU.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

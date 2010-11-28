@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Multimedia">
+</Property><Property Name="Solution File" Value="L:\MultiMedia\MultiMedia\Multimedia.sln">
+</Property><Property Name="Date" Value="den 17 december 2010">
+</Property><Property Name="Time" Value="17:51:41">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\LibspotifySharp.csproj" Description="Project file successfully backed up as L:\MultiMedia\MultiMedia\Backup1\LibspotifySharp.csproj">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Album.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Album.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\AlbumBrowse.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\AlbumBrowse.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Artist.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Artist.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\ArtistBrowse.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\ArtistBrowse.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\AlbumBrowseEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\AlbumBrowseEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\ArtistBrowseEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\ArtistBrowseEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\EventWorkItem.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\EventWorkItem.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\ImageEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\ImageEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\MusicDeliveryEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\MusicDeliveryEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\PlaylistContainerEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\PlaylistContainerEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\PlaylistEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\PlaylistEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\SearchEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\SearchEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\SessionEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\SessionEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Events\TracksEventArgs.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Events\TracksEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\libspotify.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\libspotify.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Link.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Link.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Music.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Music.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\MyClass.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\MyClass.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\PlayList.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\PlayList.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\PlaylistContainer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\PlaylistContainer.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Properties\AssemblyInfo.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Search.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Search.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Session.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Session.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\SpotifyException.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\SpotifyException.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\Track.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\Track.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\User.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup1\User.cs">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\LibspotifySharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LibspotifySharp" Source="..\LibspotifySharp\LibspotifySharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LibspotifySharp" Source="..\LibspotifySharp\LibspotifySharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

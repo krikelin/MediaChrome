@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Multimedia">
+</Property><Property Name="Solution File" Value="L:\MultiMedia\MultiMedia\Multimedia.sln">
+</Property><Property Name="Date" Value="den 17 december 2010">
+</Property><Property Name="Time" Value="13:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Multimedia.sln" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Multimedia.sln">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MultiMedia.csproj" Description="Project file successfully backed up as L:\MultiMedia\MultiMedia\Backup\MultiMedia.csproj">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="CListView.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\CListView.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="clsDownload.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\clsDownload.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Config.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Config.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Config.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Config.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="CTreeView.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\CTreeView.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="EditMetadata.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\EditMetadata.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="EditMetadata.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\EditMetadata.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Grooveshark.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Grooveshark.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Mp3.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Mp3.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Youtube.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Youtube.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Find.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Find.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Find.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Find.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="id3lib.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\id3lib.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ILibraryManager1.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ILibraryManager1.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ImportLibrary.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ImportLibrary.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ImportLibrary.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ImportLibrary.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="IPlayEngine.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\IPlayEngine.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Login.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MainForm.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MainForm.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Music.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Music.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Podcasts.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Podcasts.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Podcasts.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Podcasts.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Program.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Sorter.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Sorter.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\AudioData.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Spotify\AudioData.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\BassPlayer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Spotify\BassPlayer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\Login.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Spotify\Login.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\SpotifyView.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Spotify\SpotifyView.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\SpotifyView.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Spotify\SpotifyView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucButton.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ucButton.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucButton.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ucButton.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucStore.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ucStore.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucToolbar.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ucToolbar.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucToolbar.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ucToolbar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\DownloadManager.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\DownloadManager.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\DownloadManager.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\DownloadManager.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Library.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Library.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Library.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Library.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\NowPlaying.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\NowPlaying.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\NowPlaying.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\NowPlaying.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Playlist.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Playlist.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Playlist.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Playlist.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Preferences.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Preferences.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Preferences.Designer.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Preferences.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\ucStore.cs" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\ucStore.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Config.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Config.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="EditMetadata.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\EditMetadata.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Find.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Find.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ImportLibrary.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ImportLibrary.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MainForm.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Podcasts.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Podcasts.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\Login.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Spotify\Login.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\SpotifyView.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Engines\Spotify\SpotifyView.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucButton.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\ucButton.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\DownloadManager.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\DownloadManager.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Library.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Library.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\NowPlaying.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\NowPlaying.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Playlist.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Playlist.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Preferences.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\Preferences.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\ucStore.resx" Description="File successfully backed up as L:\MultiMedia\MultiMedia\Backup\Views\ucStore.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MultiMedia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MultiMedia" Source="MultiMedia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Multimedia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Multimedia.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MultiMedia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

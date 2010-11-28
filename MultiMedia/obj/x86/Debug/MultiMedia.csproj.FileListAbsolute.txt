@@ -12,7 +12,6 @@ E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\MultiMedia.exe
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\MultiMedia.pdb
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\AxInterop.WMPLib.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Bass.Net.dll
-E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\GlassForms.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\InputSimulator.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\LibspotifySharp.dll
@@ -24,9 +23,7 @@ E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\tessnet2_32.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Spofity.pdb
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Spofity.xml
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.xml
-E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Interop.MediaPlayer.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Interop.WMPLib.dll
-E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\Interop.MediaPlayer.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPLib.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.ResolveComReference.cache
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.exe
@@ -38,8 +35,196 @@ E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EpisodeD
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\SpofityRuntime.Login.resources
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.NowPlaying.resources
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Spotify.SpotifyView.resources
-E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Interop.WMPDXMLib.dll
-E:\SharpDevelop Projects\MultiMedia\MultiMedia\bin\Debug\Interop.WMPLauncher.dll
-E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPDXMLib.dll
-E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPLauncher.dll
 E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EditMetadata.resources
+E:\SharpDevelop Projects\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Views.Playlist.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\MultiMedia.exe
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\MultiMedia.pdb
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\LibspotifySharp.dll
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\Snowball.dll
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\tessnet2_32.dll
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\Spofity.pdb
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\Spofity.xml
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.xml
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\bin\Debug\Snowball.pdb
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.ResolveComReference.cache
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Config.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EditMetadata.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Find.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ImportLibrary.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.MainForm.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EpisodeDownload.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\SpofityRuntime.Login.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Spotify.SpotifyView.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ucButton.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.DownloadManager.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Library.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.NowPlaying.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Views.Playlist.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Settings.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ucStore.resources
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.exe
+C:\Users\Alex\Documents\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.pdb
+F:\MultiMedia\MultiMedia\bin\Debug\MultiMedia.exe
+F:\MultiMedia\MultiMedia\bin\Debug\MultiMedia.pdb
+F:\MultiMedia\MultiMedia\bin\Debug\LibspotifySharp.dll
+F:\MultiMedia\MultiMedia\bin\Debug\Snowball.dll
+F:\MultiMedia\MultiMedia\bin\Debug\tessnet2_32.dll
+F:\MultiMedia\MultiMedia\bin\Debug\Interop.WMPLib.dll
+F:\MultiMedia\MultiMedia\bin\Debug\AxInterop.WMPLib.dll
+F:\MultiMedia\MultiMedia\bin\Debug\Spofity.pdb
+F:\MultiMedia\MultiMedia\bin\Debug\Spofity.xml
+F:\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.xml
+F:\MultiMedia\MultiMedia\bin\Debug\Snowball.pdb
+F:\MultiMedia\MultiMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPLib.dll
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.ResolveComReference.cache
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Config.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EditMetadata.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Find.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ImportLibrary.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.MainForm.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EpisodeDownload.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\SpofityRuntime.Login.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Spotify.SpotifyView.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ucButton.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.DownloadManager.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Library.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.NowPlaying.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Views.Playlist.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Settings.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ucStore.resources
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.GenerateResource.Cache
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.exe
+F:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.pdb
+L:\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPLib.dll
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.ResolveComReference.cache
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.exe
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.pdb
+L:\MultiMedia\MultiMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Config.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EditMetadata.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Find.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ImportLibrary.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.EpisodeDownload.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\SpofityRuntime.Login.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Spotify.SpotifyView.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ucButton.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.DownloadManager.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Library.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.NowPlaying.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.Settings.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.ucStore.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\MultiMedia\MultiMedia\bin\Debug\MultiMedia.exe
+L:\MultiMedia\MultiMedia\bin\Debug\MultiMedia.pdb
+L:\MultiMedia\MultiMedia\bin\Debug\LibspotifySharp.dll
+L:\MultiMedia\MultiMedia\bin\Debug\Snowball.dll
+L:\MultiMedia\MultiMedia\bin\Debug\Interop.WMPLib.dll
+L:\MultiMedia\MultiMedia\bin\Debug\Snowball.pdb
+L:\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.xml
+L:\MultiMedia\MultiMedia\bin\Debug\System.Data.SQLite.xml
+L:\MultiMedia\MultiMedia\bin\Debug\MultiMedia.exe.config
+L:\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+L:\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.CListView.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Controls.Section.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Views.Artist.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\Interop.MediaPlayer.dll
+L:\MultiMedia\MultiMedia\obj\x86\Debug\AxInterop.WMPLib.dll
+L:\MultiMedia\MultiMedia\bin\Debug\Interop.MediaPlayer.dll
+L:\MultiMedia\MultiMedia\bin\Debug\AxInterop.WMPLib.dll
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Artist.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.Resources.resources
+L:\MultiMedia\MultiMedia\obj\x86\Debug\CDON.MainForm.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPLib.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\Interop.MediaPlayer.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\AxInterop.WMPLib.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.ResolveComReference.cache
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\MediaChrome.exe.config
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.CListView.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Config.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Controls.Section.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.EditMetadata.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Find.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.ImportLibrary.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.EpisodeDownload.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\SpofityRuntime.Login.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Spotify.SpotifyView.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Resources.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.ucButton.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Views.Artist.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.DownloadManager.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Library.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.NowPlaying.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Settings.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.ucStore.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\MediaChrome.exe
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\MediaChrome.pdb
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\LibspotifySharp.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\Snowball.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\Snowball.pdb
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.xml
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\System.Data.SQLite.xml
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\Interop.WMPLib.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\Interop.MediaPlayer.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\AxInterop.WMPLib.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.exe
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.pdb
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.MainForm.resources
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\Interop.SHDocVw.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\bin\Debug\Interop.SHDocVw.dll
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+L:\Mediachrome 201012191250\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\MediaChrome.exe.config
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\Interop.SHDocVw.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\Interop.WMPLib.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\Interop.MediaPlayer.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\AxInterop.WMPLib.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MultiMedia.csproj.ResolveComReference.cache
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.exe
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.pdb
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\MediaChrome.exe
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\MediaChrome.pdb
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Bass.Net.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\LibspotifySharp.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\NAudio.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Snowball.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Spocky.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Snowball.pdb
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Id3Tag.Net.xml
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\System.Data.SQLite.xml
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Interop.SHDocVw.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Interop.WMPLib.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\bin\Debug\Interop.MediaPlayer.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.CListView.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Config.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Controls.Section.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.EditMetadata.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Find.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.ImportLibrary.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.MainForm.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.EpisodeDownload.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\SpofityRuntime.Login.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Spotify.SpotifyView.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Resources.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.ucButton.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Views.Artist.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.DownloadManager.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Library.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.NowPlaying.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.Settings.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\MediaChrome.ucStore.resources
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\ResGen.read.1.tlog
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\obj\x86\Debug\ResGen.write.1.tlog

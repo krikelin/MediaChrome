@@ -1,0 +1,65 @@
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\Spofity.exe
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\Spofity.pdb
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.exe
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.pdb
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\VistaControls.xml
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.spotifyPanel.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.pane.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.spotifyButton.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.spotiEntry.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.csproj.ResolveComReference.cache
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.Form1.resources
+E:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.CDNotice.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Interop.WMPLib.dll
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\AxInterop.WMPLib.dll
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.csproj.ResolveComReference.cache
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.exe
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\ResolveAssemblyReference.cache
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.CDNotice.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.Form1.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.pane.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.Properties.Resources.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.spotiEntry.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.spotifyButton.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.spotifyPanel.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\GenerateResource.read.1.tlog
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\GenerateResource.write.1.tlog
+K:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\Spofity.exe
+K:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\Spofity.pdb
+K:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\VistaControls.xml
+K:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\Interop.WMPLib.dll
+K:\Visual Studio 2008\Projects\Spofity\Spofity\bin\Debug\AxInterop.WMPLib.dll
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.pdb
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.Form2.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.frmWarning.resources
+K:\Visual Studio 2008\Projects\Spofity\Spofity\obj\Debug\Spofity.Form3.resources
+L:\Spofity\Spofity\obj\Debug\Interop.WMPLib.dll
+L:\Spofity\Spofity\obj\Debug\AxInterop.WMPLib.dll
+L:\Spofity\Spofity\obj\Debug\Spofity.csproj.ResolveComReference.cache
+L:\Spofity\Spofity\obj\Debug\Spofity.exe
+L:\Spofity\Spofity\obj\Debug\Spofity.pdb
+L:\Spofity\Spofity\bin\Debug\Spofity.exe
+L:\Spofity\Spofity\bin\Debug\Spofity.pdb
+L:\Spofity\Spofity\bin\Debug\VistaControls.xml
+L:\Spofity\Spofity\bin\Debug\Interop.WMPLib.dll
+L:\Spofity\Spofity\bin\Debug\AxInterop.WMPLib.dll
+L:\Spofity\Spofity\obj\Debug\ResolveAssemblyReference.cache
+L:\Spofity\Spofity\obj\Debug\Spofity.CDNotice.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.Form1.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.Form2.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.Form3.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.frmWarning.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.pane.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.Properties.Resources.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.spotiEntry.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.spotifyButton.resources
+L:\Spofity\Spofity\obj\Debug\Spofity.spotifyPanel.resources
+L:\Spofity\Spofity\obj\Debug\GenerateResource.read.1.tlog
+L:\Spofity\Spofity\obj\Debug\GenerateResource.write.1.tlog

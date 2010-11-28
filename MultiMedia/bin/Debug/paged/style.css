@@ -1,9 +1,37 @@
- 	
+ 	body *
+	{
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-o-user-select: none;
+		user-select: none;
+	}
+	#seekCloud
+	{
+		width:15px;
+		height:7px;
+		top:15px;
+		left:10px;
+		position:aboslute;
+		background-image: url("img/seekcloud.png");
+		cursor:pointer;
+	}
+	#seekBar
+	{
+		cursor:pointer;
+		width:30px;
+		height:15px;
+		position:absolute;
+		left:10px;
+		top:5px;
+		background-image: url("img/seekbar.png");
+		
+		}
 			.secActive
 			{
 
 				background-image: url("img/sectionActive.png");
-						width:208px;
+						width:123px;
 						float:left;
 				height:32px;
 			}
@@ -13,7 +41,7 @@
 				font-size:22px;
 				padding:15px;
 				text-align:center;
-				width:208px;
+				width:123px;
 				float:left;
 				margin:10px;
 				cursor: default !important;

@@ -1,0 +1,208 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{41A248CD-918B-45B3-9717-42B4399669E2}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MultiMedia</RootNamespace>
+    <AssemblyName>MultiMedia</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SourceAnalysisOverrideSettingsFile>E:\SharpDevelop Projects\MultiMedia\MultiMedia\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+  <ItemGroup>
+    <Reference Include="Bass.Net">
+      <HintPath>..\..\CDON\CDON\bin\Debug\Bass.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Id3Tag.Net">
+      <HintPath>..\..\CDON\CDON\bin\Debug\Id3Tag.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="InputSimulator">
+      <HintPath>..\..\CDON\CDON\bin\Debug\InputSimulator.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>..\..\CDON\CDON\bin\Debug\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="Skybound.Gecko">
+      <HintPath>..\..\CDON\CDON\bin\Debug\Skybound.Gecko.dll</HintPath>
+    </Reference>
+    <Reference Include="Spocky">
+      <HintPath>..\..\CDON\CDON\bin\Debug\Spocky.dll</HintPath>
+    </Reference>
+    <Reference Include="Spofity">
+      <HintPath>..\..\CDON\CDON\bin\Debug\Spofity.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite" />
+    <Reference Include="System.Data.SQLite.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WebMedia">
+      <HintPath>..\..\CDON\CDON\bin\Debug\WebMedia.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CListView.cs" />
+    <Compile Include="clsDownload.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="Config.Designer.cs" />
+    <Compile Include="CTreeView.cs" />
+    <Compile Include="EditMetadata.cs" />
+    <Compile Include="EditMetadata.Designer.cs">
+      <DependentUpon>EditMetadata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engines\Grooveshark.cs" />
+    <Compile Include="Engines\Mp3.cs" />
+    <Compile Include="Engines\Youtube.cs" />
+    <Compile Include="Find.cs" />
+    <Compile Include="Find.Designer.cs">
+      <DependentUpon>Find.cs</DependentUpon>
+    </Compile>
+    <Compile Include="id3lib.cs" />
+    <Compile Include="ILibraryManager1.cs" />
+    <Compile Include="ImportLibrary.cs" />
+    <Compile Include="ImportLibrary.Designer.cs" />
+    <Compile Include="IPlayEngine.cs" />
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>ILibraryManager1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Music.cs" />
+    <Compile Include="Podcasts.cs" />
+    <Compile Include="Podcasts.Designer.cs">
+      <DependentUpon>Podcasts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Sorter.cs" />
+    <Compile Include="Engines\Spotify\AudioData.cs" />
+    <Compile Include="Engines\Spotify\BassPlayer.cs" />
+    <Compile Include="Engines\Spotify\Login.cs" />
+    <Compile Include="Engines\Spotify\SpotifyView.cs" />
+    <Compile Include="Engines\Spotify\SpotifyView.Designer.cs">
+      <DependentUpon>SpotifyView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucButton.cs" />
+    <Compile Include="ucButton.Designer.cs" />
+    <Compile Include="ucStore.Designer.cs" />
+    <Compile Include="ucToolbar.cs" />
+    <Compile Include="ucToolbar.Designer.cs" />
+    <Compile Include="Views\DownloadManager.cs" />
+    <Compile Include="Views\DownloadManager.Designer.cs">
+      <DependentUpon>DownloadManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Library.cs" />
+    <Compile Include="Views\Library.Designer.cs">
+      <DependentUpon>Library.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\NowPlaying.cs" />
+    <Compile Include="Views\NowPlaying.Designer.cs">
+      <DependentUpon>NowPlaying.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Playlist.cs" />
+    <Compile Include="Views\Playlist.Designer.cs">
+      <DependentUpon>Playlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Preferences.cs" />
+    <Compile Include="Views\Preferences.Designer.cs">
+      <DependentUpon>Preferences.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ucStore.cs" />
+    <EmbeddedResource Include="Config.resx">
+      <DependentUpon>Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditMetadata.resx">
+      <DependentUpon>EditMetadata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Find.resx">
+      <DependentUpon>Find.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportLibrary.resx">
+      <DependentUpon>ImportLibrary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Podcasts.resx">
+      <DependentUpon>Podcasts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Engines\Spotify\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Engines\Spotify\SpotifyView.resx">
+      <DependentUpon>SpotifyView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucButton.resx">
+      <DependentUpon>ucButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DownloadManager.resx">
+      <DependentUpon>DownloadManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Library.resx">
+      <DependentUpon>Library.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\NowPlaying.resx">
+      <DependentUpon>NowPlaying.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Playlist.resx">
+      <DependentUpon>Playlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Preferences.resx">
+      <DependentUpon>Preferences.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ucStore.resx">
+      <DependentUpon>ucStore.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibspotifySharp\LibspotifySharp.csproj">
+      <Project>{6D002BB0-40AA-4F41-9F45-FB1644DC1DB8}</Project>
+      <Name>LibspotifySharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Snowball\Snowball.csproj">
+      <Project>{895D5C64-BBFF-4C14-BA26-3BE815DEE01D}</Project>
+      <Name>Snowball</Name>
+    </ProjectReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <Folder Include="Engines" />
+    <Folder Include="Views" />
+    <Folder Include="Engines\Spotify" />
+  </ItemGroup>
+</Project>

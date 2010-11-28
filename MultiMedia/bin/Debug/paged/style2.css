@@ -1,0 +1,29 @@
+ 	
+			.secActive
+			{
+
+				background-image: url("img/sectionActive.png");
+						width:208px;
+						float:left;
+				height:32px;
+			}
+			.section,.secActive,.section:hover{
+				color: #333333;
+				font-family:"Segoe UI";
+				font-size:12px;
+				padding:15px;
+				text-align:left;
+				width:108px;
+				float:left;
+				margin:10px;
+				cursor: default !important;
+			}
+			a:hover .section{
+			
+				background-image: url("img/section.png");
+			
+			}
+			a:active .section{	
+				background-image: url("img/sectionActive.png");
+			
+			}

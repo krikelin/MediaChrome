@@ -3,3 +3,20 @@ E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\bin\Debug\LibspotifySharp.dl
 E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\obj\x86\Debug\LibspotifySharp.dll
 E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\bin\Debug\Bass.Net.dll
 E:\SharpDevelop Projects\MultiMedia\LibspotifySharp\bin\Debug\NAudio.dll
+C:\Users\Alex\Documents\MultiMedia\LibspotifySharp\bin\Debug\LibspotifySharp.dll
+C:\Users\Alex\Documents\MultiMedia\LibspotifySharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\MultiMedia\LibspotifySharp\obj\x86\Debug\LibspotifySharp.dll
+F:\MultiMedia\LibspotifySharp\bin\Debug\LibspotifySharp.dll
+F:\MultiMedia\LibspotifySharp\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MultiMedia\LibspotifySharp\obj\x86\Debug\LibspotifySharp.dll
+L:\MultiMedia\LibspotifySharp\bin\Debug\LibspotifySharp.dll
+L:\MultiMedia\LibspotifySharp\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\MultiMedia\LibspotifySharp\obj\x86\Debug\LibspotifySharp.dll
+L:\Mediachrome 201012191250\MultiMedia\LibspotifySharp\bin\Debug\LibspotifySharp.dll
+L:\Mediachrome 201012191250\MultiMedia\LibspotifySharp\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Mediachrome 201012191250\MultiMedia\LibspotifySharp\obj\x86\Debug\LibspotifySharp.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\LibspotifySharp\bin\Debug\LibspotifySharp.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\LibspotifySharp\bin\Debug\Bass.Net.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\LibspotifySharp\bin\Debug\NAudio.dll
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\LibspotifySharp\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\LibspotifySharp\obj\x86\Debug\LibspotifySharp.dll

@@ -1,0 +1,47 @@
+ <html>
+	<head>
+		<link rel="stylesheet" href="style.css" type="text/css"/>
+		<style>
+		body{
+				background-image: url("img/top.png");
+				background-color: ${Color};
+			}
+			</style>
+		<script language="javascript">
+			function init(){
+				var divs = document.getElementsByTagName("div");
+				for(var i=0; i < divs.length; i++){
+					var id = divs[i].getAttribute("id");
+
+					
+			
+				}
+			}
+			
+			function act(id){
+				var c = document.getElementsByTagName("div");
+				for(var i=0; i < c.length; i++){
+					c[i].setAttribute("class","section");
+				}
+				document.getElementById(id).setAttribute("class","secActive");
+				self.location="http://go.go/"+id;
+			}
+			function acti(id){
+				var c = document.getElementsByTagName("div");
+				for(var i=0; i < c.length; i++){
+					c[i].setAttribute("class","section");
+				}
+				document.getElementById(id).setAttribute("class","secActive");
+				
+			}
+			acti('${currentView}');
+		</script>
+		<body onload="init()">
+			<a><div style="left:120px; top:10px;" onclick="act('NowPlaying')"  class="section" id="NowPlaying">Player</div></a>
+			<a><div style="left:120px; top:10px;" onclick="act('Library')"  class="secActive" id="Library">Library</div></a>
+			<a><div style="left:400px; top:10px;" onclick="act('Store')" class="section" id="Store">Store</div></a>
+			<a><div style="left:620px; top:10px;" onclick="act('Downloads')" class="section" id="Downloads">Downloads</div></a>
+			<a><div style="left:620px; top:10px;" onclick="act('Settings')" class="section" id="Settings">Settings</div></a>
+		</body>
+	</head>
+</html>

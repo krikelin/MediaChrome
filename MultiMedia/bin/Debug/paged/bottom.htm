@@ -4,7 +4,7 @@
 		<style>
 		body{
 				background-image: url("img/top.png");
-				background-color: #85BAFA;
+				background-color: #A0DCDF;
 			}
 			</style>
 		<script language="javascript">
@@ -16,19 +16,85 @@
 					
 			
 				}
-			}
-			
-			function act(id){
-				var c = document.getElementsByTagName("div");
-				for(var i=0; i < c.length; i++){
-					c[i].setAttribute("class","section");
+				document.body.addEventListener("mousemove",function(e){
+					if(dragging){
+						
+						val = seek(e.clientX);
+						
+					}
+				},false);
+				document.getElementById("seekCloud").addEventListener("mousemove",function(e){
+					if(dragging){
+						
+						val = seek(e.clientX);
+						
+					}
+				},false);
+				document.getElementById("seekBar").addEventListener("mousemove",function(e){
+					if(dragging){
+						
+						val = seek(e.clientX);
+						
+					}
 				}
-				document.getElementById(id).setAttribute("class","secActive");
-				self.location="http://go.go/"+id;
+				,false);
+				document.body.addEventListener("mouseup",function(e){
+					dragging=false;
+					self.location="http://go.go/?seek="+val;
+			
+				},false);
+				document.getElementById("seekBar").addEventListener("mouseup",function(e){
+					dragging=false;
+					self.location="http://go.go/?seek="+val;
+				},false);
+				document.getElementById("seekBar").addEventListener("mousedown",function(e){
+					dragging=true;
+				},false);
+				function act(id){
+					var c = document.getElementsByTagName("div");
+					for(var i=0; i < c.length; i++){
+						c[i].setAttribute("class","section");
+					}
+					document.getElementById(id).setAttribute("class","secActive");
+					self.location="http://go.go/"+id;
+				}
 			}
+			function seekP(pos){
+				var width = document.documentElement.clientWidth;
+				
+				var seekBar = document.getElementById("seekBar");
+				var seekCloud = document.getElementById("seekCloud");
+				
+				if(pos < 1000 && pos > -1)
+				{
+					
+					seekBar.style.left=  10+ ((pos/1000)*(width-20));
+					seekCloud.style.width=parseInt(seekBar.style.left)+10-10 ;
+			 
+				}
+				//return ((pos -10) / (width - 10) )*100;
+			}
+			function seek(pos){
+				var width = document.documentElement.clientWidth;
+				
+				var seekBar = document.getElementById("seekBar");
+				var seekCloud = document.getElementById("seekCloud");
+				
+				if(pos > 10 && pos < width-10)
+				{
+					
+					seekBar.style.left=pos;
+					seekCloud.style.width=pos-10 ;
+				}
+				return ((pos -10) / (width - 10) )*1000;
+			}
+			var val = 0;
+			var dragging=false;
+			
 		</script>
 		<body onload="init()">
-			
+			<div id="seekCloud"/>
+			<div id="seekBar"/>
 		</body>
 	</head>
 </html>

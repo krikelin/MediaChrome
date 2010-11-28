@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MultiMedia">
+</Property><Property Name="Solution File" Value="L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\MultiMedia.sln">
+</Property><Property Name="User Options File" Value="L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\MultiMedia.suo">
+</Property><Property Name="Date" Value="den 3 september 2011">
+</Property><Property Name="Time" Value="11:03">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MultiMedia.sln" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\MultiMedia.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MultiMedia.suo" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\MultiMedia.suo">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MultiMedia.csproj" Description="Project file successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\MultiMedia.csproj">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MultiMedia.csproj.user" Description="Project user file successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\MultiMedia.csproj.user">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="CListView.new.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\CListView.new.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="clsDownload.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\clsDownload.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Config.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Config.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Config.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Config.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Controls\Section.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Controls\Section.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Controls\Section.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Controls\Section.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="CTreeView.old.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\CTreeView.old.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="EditMetadata.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\EditMetadata.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="EditMetadata.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\EditMetadata.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Grooveshark.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Grooveshark.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Mp3.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Mp3.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Youtube.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Youtube.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Find.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Find.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Find.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Find.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="id3lib.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\id3lib.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ILibraryManager1.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ILibraryManager1.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ImportLibrary.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ImportLibrary.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ImportLibrary.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ImportLibrary.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="IPlayEngine.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\IPlayEngine.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Login.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MainForm.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MainForm.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Music.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Music.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Playlist.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Playlist.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Podcasts.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Podcasts.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Podcasts.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Podcasts.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Program.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Program.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Resources.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Sorter.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Sorter.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\AudioData.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Spotify\AudioData.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\BassPlayer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Spotify\BassPlayer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\Login.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Spotify\Login.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\SpotifyView.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Spotify\SpotifyView.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\SpotifyView.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Spotify\SpotifyView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Spofity.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Spofity.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucButton.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ucButton.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucButton.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ucButton.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucStore.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ucStore.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucToolbar.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ucToolbar.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucToolbar.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ucToolbar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Artist.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Artist.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Artist.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Artist.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\DownloadManager.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\DownloadManager.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\DownloadManager.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\DownloadManager.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Library.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Library.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Library.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Library.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\NowPlaying.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\NowPlaying.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\NowPlaying.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\NowPlaying.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Preferences.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Preferences.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Preferences.Designer.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Preferences.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\ucStore.cs" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\ucStore.cs">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="app.config" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\app.config">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="opner.png" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\opner.png">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Properties\Settings.settings" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Resources\column.png" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Resources\column.png">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Resources\columnlimiter.png" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Resources\columnlimiter.png">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Resources\columnx.png" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Resources\columnx.png">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Resources\star_on.png" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Resources\star_on.png">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Resources\star_off.png" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Resources\star_off.png">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="CListView.new.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\CListView.new.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Config.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Config.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Controls\Section.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Controls\Section.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="EditMetadata.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\EditMetadata.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Find.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Find.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ImportLibrary.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ImportLibrary.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MainForm.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Podcasts.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Podcasts.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\Login.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Spotify\Login.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Engines\Spotify\SpotifyView.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Engines\Spotify\SpotifyView.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Resources.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="ucButton.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\ucButton.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Artist.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Artist.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\DownloadManager.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\DownloadManager.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Library.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Library.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\NowPlaying.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\NowPlaying.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\Preferences.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\Preferences.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="Views\ucStore.resx" Description="File successfully backed up as L:\Mediachrome 201012191250 - Kopia (2)\MultiMedia\MultiMedia\Backup2\Views\ucStore.resx">
+</Event><Event ErrorLevel="0" Project="MultiMedia" Source="MultiMedia.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="MultiMedia" Source="MultiMedia.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="MultiMedia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MultiMedia.sln" Description="Converted">
+</Event></UpgradeLog>

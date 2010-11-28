@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="940"
+   width="640"
    height="198"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="E:\SharpDevelop Projects\MultiMedia\MultiMedia\logo2.png"
+   inkscape:export-filename="E:\SharpDevelop Projects\MultiMedia\MultiMedia\logo3.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -211,11 +211,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1000"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="678"
+     inkscape:window-height="455"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -349,13 +349,13 @@
        id="text3793"
        y="953.45837"
        x="291.82916"
-       style="font-size:76.12401581000000300px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#pattern4713);fill-opacity:1;stroke:#000000;stroke-width:0.13473655000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold;opacity:0.7079646"
+       style="font-size:76.12401581px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.70796461;fill:url(#pattern4713);fill-opacity:1;stroke:#000000;stroke-width:0.13473655;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold"
        xml:space="preserve"><tspan
          y="953.45837"
          x="291.82916"
          id="tspan3795"
          sodipodi:role="line"
-         style="font-size:76.12401581000000300px;fill:url(#pattern4713);fill-opacity:1;stroke:#000000;stroke-width:0.13473655000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">Listen to your heart</tspan></text>
+         style="font-size:76.12401581px;fill:url(#pattern4713);fill-opacity:1;stroke:#000000;stroke-width:0.13473655;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">Listen to your heart</tspan></text>
     <g
        id="g3850"
        transform="matrix(0.92965274,0,0,0.92965274,-93.094893,-113.18505)">
@@ -430,7 +430,7 @@
          style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <rect
-       style="stroke:none;fill:url(#pattern3933);opacity:0.18584071"
+       style="opacity:0.18584068;fill:url(#pattern3933);stroke:none"
        width="166.25"
        height="151.70592"
        x="-380.90625"
